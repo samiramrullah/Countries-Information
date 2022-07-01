@@ -29,7 +29,7 @@ A full stack developer and Machine learning enthusiastic,quick learner with abil
 Install my-project with npm
 clone the project with provided gitlink()
 ```bash
-  cd cd '.\Country Web Api'
+  cd '.\Country Web Api'
   npm install
   npm start
 ```
