@@ -53,9 +53,8 @@ clone the project with provided gitlink()
 
 
 ## Technology used
-- JavaScrit as Programming language
+- TypeScript as Programming language
 - React JS
-- TypeScript
 - Matrial UI
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/74055996/176961382-941c18d2-5bd2-48d2-991f-b45458dd347a.png)
